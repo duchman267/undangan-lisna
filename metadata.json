@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Royal — Undangan Pernikahan Digital 3D",
+  "description": "Undangan pernikahan digital Anas dan Lisna",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
